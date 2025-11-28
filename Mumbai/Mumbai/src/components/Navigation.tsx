@@ -9,6 +9,8 @@ const Navigation = () => {
     { path: "/", label: "Home" },
     { path: "/dashboard", label: "Dashboard" },
     { path: "/alerts", label: "Public Alerts" },
+    { path: "/CreateLsiting", label: "AddHospital" },
+    
     
     
   ];
